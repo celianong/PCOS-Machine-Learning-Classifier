@@ -1,26 +1,21 @@
 # PCOS Machine Learning Classifier (Educational Project)
 
-This project implements a small end-to-end machine learning pipeline using a public  
-PCOS (Polycystic Ovary Syndrome) clinical dataset. It focuses on data cleaning,  
-feature engineering, model training, and basic interpretability through feature importance.
+This project implements a small end-to-end machine learning pipeline using a public PCOS (Polycystic Ovary Syndrome) clinical dataset. It focuses on data cleaning, feature engineering, model training, and basic interpretability through feature importance.
 
 > **IMPORTANT**  
 > This project is intended **solely for learning and educational purposes**.  
-> It must **not** be used for medical diagnosis, treatment decisions, or any kind of  
-> real-world clinical application. If you have questions or concerns about PCOS or your health,  
-> please consult a qualified medical professional.
+> It must **not** be used for medical diagnosis, treatment decisions, or any kind of real-world clinical application.
+> If you have questions or concerns about PCOS or your health, please consult a qualified medical professional.
 
 ---
 
 ## 1. Project Motivation
 
 PCOS is a common condition affecting many women worldwide.  
-As someone who personally has PCOS, I wanted to explore how data science techniques can be applied to real-world health-related datasets.
-While this project is not medical advice and cannot diagnose anyone, it allowed me to gain hands-on experience with real data while also reflecting on an issue that affects my own life.
+As someone who personally has PCOS, I wanted to explore how data science techniques can be applied to real-world health-related datasets. While this project is not medical advice and cannot diagnose anyone, it allowed me to gain hands-on experience with real data while also reflecting on an issue that affects my own life.
 
 **My hope is that women with PCOS—or any health challenge—can live healthy, confident lives.**  
-If this small educational project can inspire others learning data science or empower  
-women to better understand their bodies, then I feel it has already served a meaningful purpose.
+If this small educational project can inspire others learning data science or empower women to better understand their bodies, then I feel it has already served a meaningful purpose.
 
 ---
 
